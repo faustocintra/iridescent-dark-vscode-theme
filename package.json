@@ -1,0 +1,27 @@
+{
+    "name": "iridescent-dark",
+    "displayName": "Iridescent Dark",
+    "description": "Dark theme featuring chalky highlight colors",
+    "version": "0.0.1",
+    "publisher": "faustocintra",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/faustocintra/iridescent-dark-vscode-theme"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Iridescent Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/iridescent-dark-color-theme.json"
+            }
+        ]
+    }
+}
