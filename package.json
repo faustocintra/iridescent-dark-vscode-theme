@@ -2,11 +2,11 @@
     "name": "iridescent-dark",
     "displayName": "Iridescent Dark",
     "description": "Dark theme featuring chalky highlight colors",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "faustocintra",
     "license": "MIT",
     "engines": {
-        "vscode": "^1.44.0"
+        "vscode": "^1.40.0"
     },
     "categories": [
         "Themes"

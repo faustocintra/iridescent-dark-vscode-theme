@@ -539,11 +539,17 @@ entity.quasi.element.js</string>
             punctuation.section.media.end.bracket.curly.css,
             punctuation.separator.key-value.css,
             punctuation.terminator.rule.css,
-            punctuation.terminator.rule.scss</string>
+            punctuation.terminator.rule.scss,
+punctuation.section.property-list.begin.bracket.curly.css,
+punctuation.section.property-list.begin.bracket.curly.less,
+punctuation.section.property-list.begin.bracket.curly.scss,
+punctuation.section.property-list.end.bracket.curly.css,
+punctuation.section.property-list.end.bracket.curly.less,
+punctuation.section.property-list.end.bracket.curly.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFECB3</string>
+				<string>#D1C4E9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -641,7 +647,7 @@ string.quoted.double.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFF59D</string>
+				<string>#D4E157</string>
 			</dict>
 		</dict>
 		<dict>
@@ -656,11 +662,14 @@ meta.at-rule.extend.css,
 keyword.control.at-rule.extend.less,
 meta.at-rule.extend.less,
 keyword.control.at-rule.extend.scss,
-meta.at-rule.extend.scss</string>
+meta.at-rule.extend.scss,
+keyword.control.at-rule.import.css,
+keyword.control.at-rule.import.less,
+keyword.control.at-rule.import.scss</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CCFF90</string>
+				<string>#FFD54F</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -742,7 +751,7 @@ string.unquoted.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B39DDB</string>
+				<string>#FFE0B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -902,7 +911,7 @@ support.class.builtin.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFE0B2</string>
+				<string>#CE93D8</string>
 			</dict>
 		</dict>
 		<dict>
