@@ -45,7 +45,7 @@
 		"editor.wordHighlightStrongBackground": "#78909c",
 		
 		"editorBracketMatch.background": "#455a64",
-		"editorBracketMatch.border": "#FFCCBC",
+		"editorBracketMatch.border": "#8bc34a88",
 		
 		"editorCodeLens.foreground": "#455a64",
 		
@@ -188,7 +188,8 @@
 		
 		"statusBar.background": "#FF8A65",
 		"statusBar.border": "#FF8A65",
-		"statusBar.debuggingBackground": "#EF9A9A",
+		"statusBar.debuggingBorder": "#7cb342",
+		"statusBar.debuggingBackground": "#7cb342",
 		"statusBar.debuggingForeground": "#f5f5f5",
 		"statusBar.foreground": "#f5f5f5",
 		"statusBar.noFolderBackground": "#263238",

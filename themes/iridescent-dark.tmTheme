@@ -265,7 +265,8 @@ punctuation.separator, punctuation.terminator.statement</string>
 			<key>name</key>
 			<string>Javascript: object attributes</string>
 			<key>scope</key>
-			<string>variable.other.property,
+			<string>string.unquoted.js,
+variable.other.property,
             string.quoted.double.js &gt; meta.object-literal.key.js,
             meta.object-literal.key.js,
             meta.object-literal.key.js punctuation.definition.string.begin.js,
@@ -389,7 +390,7 @@ string.quasi.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BA68C8</string>
+				<string>#EA80FC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -411,7 +412,7 @@ entity.quasi.element.js</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B388FF</string>
+				<string>#F8BBD0</string>
 			</dict>
 		</dict>
 		<dict>
