@@ -587,7 +587,8 @@ punctuation.section.property-list.end.bracket.curly.scss</string>
             entity.name.tag.scss,
             source.less keyword.control.html.elements,
             source.sass keyword.control.untitled,
-            entity.name.tag.custom.scss</string>
+            entity.name.tag.custom.scss,
+meta.property-list.scss entity.name.tag.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
