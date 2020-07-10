@@ -22,9 +22,9 @@
 				<key>invisibles</key>
 				<string>#485860</string>
 				<key>lineHighlight</key>
-				<string>#374349</string>
+				<string>#37474f99</string>
 				<key>selection</key>
-				<string>#455A64</string>
+				<string>#37474f</string>
 				<key>inactiveSelection</key>
 				<string>#263238</string>
 				<key>findHighlight</key>
@@ -32,9 +32,9 @@
 				<key>gutterForeground</key>
 				<string>#607D8B</string>
 				<key>guide</key>
-				<string>#455A64</string>
+				<string>#374349</string>
 				<key>activeGuide</key>
-				<string>#607D8B</string>
+				<string>#455A64</string>
 				<key>minimapBorder</key>
 				<string>#F1826025</string>
 			</dict>
@@ -62,7 +62,7 @@ support.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#607D8B</string>
+				<string>#616161</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -197,7 +197,7 @@ punctuation.separator, punctuation.terminator.statement</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFECB3</string>
+				<string>#fff9c4cc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -353,7 +353,7 @@ variable.other.property,
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFECB3</string>
+				<string>#fff9c4cc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -885,7 +885,7 @@ support.class.builtin.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFECB3</string>
+				<string>#fff9c4cc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -988,7 +988,7 @@ support.class.builtin.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFECB3</string>
+				<string>#fff9c4cc</string>
 			</dict>
 		</dict>
 		<dict>
